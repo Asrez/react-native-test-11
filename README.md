@@ -16,6 +16,8 @@
 پرسش و پاسخ: در صورت هر گونه ابهام و سوالی که نتوانستید آن را حل کنید می توانید در لینک زیر پیام قرار دهید:
 https://github.com/Asrez/react-native-test-11/issues/1
 
+هیچ وبسرویسی نیاز نیست می توانید از داده های ثابت استفاده کنید یا خودتان فایل JSON نمونه تولید کنید و متصل کنید.
+
 <h3>اسکرین شات</h3>
 
 صفحه خطا اینترنت:
@@ -26,7 +28,7 @@ https://github.com/Asrez/react-native-test-11/issues/1
 
 ![image](https://github.com/Asrez/react-native-test-11/assets/2658040/d9c4f90c-da27-48fe-bf04-9f1a8a8f4f19)
 
-صحه اصلی در حالت لودینگ اولیه قبل از دریافت اطلاعات از وبسرویس
+صحه اصلی در حالت لودینگ اولیه قبل از دریافت اطلاعات:
 
 ![image](https://github.com/Asrez/react-native-test-11/assets/2658040/f2018a99-660f-4eec-83a6-800dbeecacd6)
 
