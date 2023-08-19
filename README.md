@@ -14,6 +14,7 @@
 <h3>اسکرین شات</h3>
 
 صفحه خطا اینترنت:
+
 ![image](https://github.com/Asrez/react-native-test-11/assets/2658040/a00348c5-9e24-4b6a-a3c2-df5546f6dc89)
 
 صفحه اسپلش:
